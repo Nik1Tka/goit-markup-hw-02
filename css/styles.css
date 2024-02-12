@@ -34,7 +34,7 @@ button {
 font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -43,7 +43,7 @@ font-family: "Raleway", sans-serif;
 ffont-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
@@ -62,7 +62,6 @@ ffont-family: "Raleway", sans-serif;
 .menu-link:hover,
 .menu-link:focus{
     color: #404bbf;;
-    background-color: #404BBF;
 }
 .menu-info-link {
     font-family: "Roboto", sans-serif;
