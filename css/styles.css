@@ -22,6 +22,10 @@ button {
 .menu-nav{
     font-style: normal;
 }
+.menu-info-link:hover,
+.menu-info-link:focus{
+    color: #404bbf;
+}
 .hero{
     background: #2e2f42;
 }
